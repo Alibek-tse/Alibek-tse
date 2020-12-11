@@ -1,5 +1,8 @@
 [![Alibek-tse statistics](https://github-readme-stats.vercel.app/api?username=alibek-tse&show_icons=true&theme=onedark)](#)
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)&nbsp;&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux&style=for-the-badge)&nbsp;&nbsp;
@@ -11,5 +14,3 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
-
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
