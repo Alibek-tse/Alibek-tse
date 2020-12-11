@@ -12,3 +12,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
