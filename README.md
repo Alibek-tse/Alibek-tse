@@ -11,6 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=for-the-badge)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=for-the-badge)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
+![Node](https://img.shields.io/badge/-Node-black?logo=nodejs&style=for-the-badge)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
+![Next](https://img.shields.io/badge/-Next-black?logo=next&style=for-the-badge)&nbsp;&nbsp;
